@@ -1,0 +1,61 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>cards/00.gif</file>
+        <file>cards/01.gif</file>
+        <file>cards/02.gif</file>
+        <file>cards/03.gif</file>
+        <file>cards/04.gif</file>
+        <file>cards/05.gif</file>
+        <file>cards/06.gif</file>
+        <file>cards/07.gif</file>
+        <file>cards/08.gif</file>
+        <file>cards/09.gif</file>
+        <file>cards/10.gif</file>
+        <file>cards/11.gif</file>
+        <file>cards/12.gif</file>
+        <file>cards/13.gif</file>
+        <file>cards/14.gif</file>
+        <file>cards/15.gif</file>
+        <file>cards/16.gif</file>
+        <file>cards/17.gif</file>
+        <file>cards/18.gif</file>
+        <file>cards/19.gif</file>
+        <file>cards/20.gif</file>
+        <file>cards/21.gif</file>
+        <file>cards/22.gif</file>
+        <file>cards/23.gif</file>
+        <file>cards/24.gif</file>
+        <file>cards/25.gif</file>
+        <file>cards/26.gif</file>
+        <file>cards/27.gif</file>
+        <file>cards/28.gif</file>
+        <file>cards/29.gif</file>
+        <file>cards/30.gif</file>
+        <file>cards/31.gif</file>
+        <file>cards/32.gif</file>
+        <file>cards/33.gif</file>
+        <file>cards/34.gif</file>
+        <file>cards/35.gif</file>
+        <file>cards/36.gif</file>
+        <file>cards/37.gif</file>
+        <file>cards/38.gif</file>
+        <file>cards/39.gif</file>
+        <file>cards/back.gif</file>
+        <file>cards/blank.gif</file>
+        <file>cards/green 4.jpg</file>
+        <file>cards/green 2.jpg</file>
+        <file>cards/00.jpg</file>
+        <file>cards/99.jpg</file>
+        <file>cards/999.png</file>
+        <file>cards/images.jpg</file>
+        <file>cards/background.png</file>
+        <file>cards/backgraound1.png</file>
+        <file>cards/backgraound2.png</file>
+        <file>cards/2.jpeg</file>
+        <file>cards/imageJouer.jpeg</file>
+        <file>cards/image3.jpeg</file>
+        <file>cards/green 3.jpg</file>
+        <file>cards/image2.jpeg</file>
+        <file>cards/image1.jpeg</file>
+    </qresource>
+</RCC>
