@@ -68,13 +68,12 @@ MaClasse::MaClasse(QWidget *parent)
 
 
    setStyleSheet("QMainWindow { background-image: url(:/img/cards/green 3.jpg) }");
-   /*.background-size: 100% 100%;*/
+   
     // Initialize new members
     titleLabel = new QLabel("TWO OR ONE ", this);
     titleLabel->setFont(QFont("Arial", 50));
     titleLabel->setStyleSheet("color: #FF0000;");
-    /*titleLabel->setGeometry(350, 50, 400, 50);*/
-
+   
     // Créez l'animation
     QPropertyAnimation *animation = new QPropertyAnimation(titleLabel, "geometry");
     animation->setDuration(1000); // Durée de l'animation en millisecondes
